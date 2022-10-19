@@ -1,0 +1,18 @@
+{
+  "name": "tau-supertest",
+  "version": "1.0.0",
+  "description": "TAU API JS Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Daniel Vasquez Cordero",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "express": "^4.18.2",
+    "mocha": "^10.1.0",
+    "nock": "^13.2.9",
+    "supertest": "^6.3.0"
+  }
+}
